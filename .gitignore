@@ -70,3 +70,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Unity3D Temp Folders
+/Unity/WarGame/Library/Artifacts
+/Unity/WarGame/Library/Bee
+/Unity/WarGame/Library/PackageCache
+/Unity/WarGame/Library/BurstCache
+/Unity/WarGame/Library/ShaderCache
